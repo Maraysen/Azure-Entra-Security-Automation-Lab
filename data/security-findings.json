@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "RBAC assignments",
+        "Risk": 5
+    },
+    {
+        "Name": "Inactive accounts",
+        "Risk": 4
+    },
+    {
+        "Name": "Privileged roles",
+        "Risk": 5
+    },
+    {
+        "Name": "Application credentials",
+        "Risk": 2
+    }
+]
