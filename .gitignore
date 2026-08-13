@@ -11,6 +11,7 @@ venv/
 # Environment / secrets
 .env
 *.env
+phase5-progress.md
 
 # PowerShell local files
 *.tmp
